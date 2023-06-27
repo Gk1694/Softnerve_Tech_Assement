@@ -95,3 +95,19 @@ def xorSum(arr):
     ans = bits * pow(2, n-1)
     return ans
 ```
+
+**1.	Rating in scale of DSA**
+
+* 7 out of 10
+* problem solving in array I am very good at it.
+* In algorithmis I like to use Divide And conquer method
+
+**2.	Leetcode / hacker rank. code chef ranking**
+* Codewar Rating  is 921 kata
+* and Leaderboard Position is 31,761
+* Leetcode highest rating is 1477 and ranking was 7129
+* code chef highest rating is 1536 and global ranking was 2867
+
+**3.	Deep learning rating – (Mentioned if worked in GAN Related project)**
+* 6 out of 10
+
